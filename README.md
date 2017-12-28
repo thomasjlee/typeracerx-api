@@ -1,24 +1,7 @@
-# README
+![](http://s3.amazonaws.com/thomasleeio/projects/screenshots/000/000/004/medium/typeracerx-logo-posterized.png?1514498205)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### Based on the classic [typeracer](http://play.typeracer.com/) game. Renders random famous quotes and calculates words-per-minute and accuracy as you type. Test your typing skills and see if you can top the scoreboard.
 
-Things you may want to cover:
+**[Play it!](http://typeracerx.surge.sh/)**
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Created: August 2017
