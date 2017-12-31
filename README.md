@@ -10,4 +10,4 @@ Created: August 2017
 #### This is the Ruby on Rails backend for the app. [Click here to read the full project README.](https://github.com/thomasjlee/typeracerx)
 
 ## Author
-I am a developer, coffee-lover, career-changer, and former classical pianist. Visit [thomaslee.io](http://www.thomaslee.io) to see what I'm up to.
+I am a programmer, coffee-lover, career-changer, and former classical pianist. Visit [thomaslee.io](http://www.thomaslee.io) to see what I'm up to.
